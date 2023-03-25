@@ -17,8 +17,8 @@
   💌 Entre em contato: ⤵️
 </p>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-CF001C?style=flat-square&labelColor=CF001C&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor_quadra__/"/></a>
+  <a href="https://www.instagram.com/vitor_quadra__/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-CF001C?style=flat-square&labelColor=CF001C&logo=instagram&logoColor=white"/></a>
 </p>    
 <!---
 VitorDeQuadra/VitorDeQuadra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
