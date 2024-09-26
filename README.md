@@ -4,14 +4,19 @@
   Me chamo Vitor de Quadra no momento estou atuando na área de <strong>Programação</strong>.<br>
   Estudo no Colégio Estadual De Pato Branco cursando Técnico em Informática Integrado.
 </p>
+<br>
 
 <p align="left">
-  🦄 Linguagens: <strong>Dart, TypeScript, 'HTML e CSS'.</strong>
+  🦄 Linguagens: <strong>Dart, TypeScript, HTML, SCSS e CSS.</strong>
 </p>
 
+<br>
+
 <p align="left">
-  💼 Frameworks: <strong>Angular, Ionic, Cordova e Flutter</strong>
+  💼 Frameworks: <strong>Angular, Ionic, Cordova, Flutter, Bootstrap e Tailwind</strong>
 </p>
+
+<br>
 
 <p align="left">
   💌 Entre em contato: ⤵️
