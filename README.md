@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Notebook e Celular.</strong>
+  💼 Frameworks: <strong>Angular, Ionic, Cordova e Flutter</strong>
 </p>
 
 <p align="left">
