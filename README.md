@@ -18,10 +18,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDeQuadra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 <p align="left">
   💌 Entre em contato: ⤵️
 </p>
