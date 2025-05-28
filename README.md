@@ -2,12 +2,12 @@
 
 <p align="left"> 
   Me chamo Vitor de Quadra no momento estou atuando na área de <strong>Programação</strong>.<br>
-  Estudo no Colégio Estadual De Pato Branco cursando Técnico em Informática Integrado.
+  Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Engenharia de Software
 </p>
 <br>
 
 <p align="left">
-  🦄 Linguagens: <strong>Dart, TypeScript, HTML, SCSS e CSS.</strong>
+  🦄 Linguagens: <strong>Dart, TypeScript, C#, HTML, SCSS e CSS.</strong>
 </p>
 
 <br>
