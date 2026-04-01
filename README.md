@@ -64,8 +64,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Engenharia de
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=VitorDeQuadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDeQuadra&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
 
 </div>
 
