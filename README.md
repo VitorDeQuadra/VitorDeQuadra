@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/🌐_dequadraapps.com.br-0A0A0A?style=for-the-badge)](https://dequadraapps.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-CF001C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_quadra__/)
 [![QuadraVendas](https://img.shields.io/badge/🛒_QuadraVendas-1a1a2e?style=for-the-badge)](https://quadravendas.com.br)
+[![DeQuadra GitHub](https://img.shields.io/badge/GitHub-DeQuadraApps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeQuadraApps)
 
 </div>
 
@@ -55,6 +56,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Engenharia de
 |---|---|---|
 | 🛒 **QuadraVendas** | Sistema de gestão e vendas desenvolvido pela DeQuadra | [quadravendas.com.br](https://quadravendas.com.br) |
 | 🏢 **DeQuadra** | Software house — sites, sistemas e apps mobile | [dequadraapps.com.br](https://dequadraapps.com.br) |
+| 🐙 **DeQuadra GitHub** | Repositórios e projetos da DeQuadra | [github.com/DeQuadraApps](https://github.com/DeQuadraApps) |
 
 ---
 
@@ -62,8 +64,14 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Engenharia de
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorDeQuadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDeQuadra&layout=compact&theme=tokyonight&hide_border=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=VitorDeQuadra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDeQuadra&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VitorDeQuadra&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
