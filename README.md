@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/🌐_dequadraapps.com.br-0A0A0A?style=for-the-badge)](https://dequadraapps.com.br)
 [![Instagram](https://img.shields.io/badge/Instagram-CF001C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_quadra__/)
 [![QuadraVendas](https://img.shields.io/badge/🛒_QuadraVendas-1a1a2e?style=for-the-badge)](https://quadravendas.com.br)
-[![DeQuadra GitHub](https://img.shields.io/badge/GitHub-DeQuadraApps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeQuadraApps)
+[![DeQuadra GitHub](https://img.shields.io/badge/GitHub-DeQuadra-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeQuadra)
 
 </div>
 
@@ -56,7 +56,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** e **Engenharia de
 |---|---|---|
 | 🛒 **QuadraVendas** | Sistema de gestão e vendas desenvolvido pela DeQuadra | [quadravendas.com.br](https://quadravendas.com.br) |
 | 🏢 **DeQuadra** | Software house — sites, sistemas e apps mobile | [dequadraapps.com.br](https://dequadraapps.com.br) |
-| 🐙 **DeQuadra GitHub** | Repositórios e projetos da DeQuadra | [github.com/DeQuadraApps](https://github.com/DeQuadraApps) |
+| 🐙 **DeQuadra GitHub** | Repositórios e projetos da DeQuadra | [github.com/DeQuadra](https://github.com/DeQuadra) |
 
 ---
 
